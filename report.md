@@ -9,11 +9,14 @@ The purpose of this analysis is to use machine learning to predict credit risk b
 The dataset used in this analysis contains various financial features about loans, such as loan amount, interest rate, and borrower information. The primary variable to predict is loan_status, which can either be:
 
 0 – indicating a healthy loan.
+
 1 – indicating a high-risk loan.
+
 The model aims to predict whether a loan is high-risk or healthy based on the other features.
 ##
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`):
 Healthy: 75036
+
 High-Risk: 2500
 
 There are far more healthy loans than high-risk loans.
