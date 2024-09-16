@@ -15,6 +15,7 @@ The dataset used in this analysis contains various financial features about loan
 The model aims to predict whether a loan is high-risk or healthy based on the other features.
 ##
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`):
+
 Healthy: 75036
 
 High-Risk: 2500
@@ -39,15 +40,25 @@ The model's performance was evaluated using the confusion matrix and classificat
 Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
+  
     Accuracy: 99%
+  
     Precision:
+  
     Class 0 (healthy loan): 1.00
+  
     Class 1 (high-risk loan): 0.84
+  
     Recall:
+  
     Class 0 (healthy loan): 0.99
+  
     Class 1 (high-risk loan): 0.94
+  
     F1-Score:
+  
     Class 0: 1.00
+  
     Class 1: 0.89
 
 ## Summary
