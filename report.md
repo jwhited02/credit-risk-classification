@@ -37,8 +37,6 @@ The model's performance was evaluated using the confusion matrix and classificat
 
 ## Results
 
-Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
-
 * Machine Learning Model 1:
   
     Accuracy: 99%
@@ -62,13 +60,6 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
     Class 1: 0.89
 
 ## Summary
-
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
-
-* Which one seems to perform best? How do you know it performs best?
-* Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
-
-If you do not recommend any of the models, please justify your reasoning.
 ##
 Best Performing Model: The Logistic Regression model performed exceptionally well, achieving an overall accuracy of 99%. It performed perfectly on classifying healthy loans (class 0), with precision, recall, and F1-scores of 1.00 for that class.
 
